@@ -1,16 +1,15 @@
 ## GAME OF LIFE
 
-Εκφώνηση: https://k08.chatzi.org/projects/project1/
-
-
 ### Βασισμένη στην παρακάτω εργασία (Ασκηση 5 και 6)
-    https://k08.chatzi.org/2020/projects/project1/
+https://k08.chatzi.org/2020/projects/project1/
 
 
 ### How to run
     make run 
-Στον φάκελο programs/gif_example
+Στον φάκελο programs/gif_example.
+
 Παράμετροι γραμμής εντολών απο τα αριστερά προς τα δεξιά:
+
 myex <state> <top> <left> <bottom> <right> <frames> <zoom> <speed> <delay> <gif>
 
     state (string): η αρχική κατάσταση (αρχείο RLE).
