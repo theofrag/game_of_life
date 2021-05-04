@@ -10,7 +10,7 @@ https://k08.chatzi.org/2020/projects/project1/
 
 Παράμετροι γραμμής εντολών απο τα αριστερά προς τα δεξιά:
 
-myex <state> <top> <left> <bottom> <right> <frames> <zoom> <speed> <delay> <gif>
+./myex 'state' 'top' 'left' 'bottom' 'right' 'frames' 'zoom' 'speed' 'delay' 'gif'
 
     state (string): η αρχική κατάσταση (αρχείο RLE).
 
