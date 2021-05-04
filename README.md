@@ -3,11 +3,14 @@
 Εκφώνηση: https://k08.chatzi.org/projects/project1/
 
 
+### How to run
+    make run 
+Στον φάκελο programs/gif_example
 
-### Documentation
+### Βασισμένη στην παρακάτω εργασία 
+    https://k08.chatzi.org/2020/projects/project1/
 
 
-### GAME OF LIFE
 Ο βασικός κορμός του game of life είναι 2 maps.
 Το map1 κρατάει τις συντεταγμένες του "cell.x"  ενώ το map2 του "cell.y".
 Θα μπορούσε να παρομοιαστεί με έναν 2d πίνακα απο στο map1 αποθηκευεται ο αριθμός της γραμμής,ενώ στο map2 της στήλης
